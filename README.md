@@ -94,9 +94,3 @@ weatherapp/
 - dotenv
 - node-fetch
 - HTML, CSS, JavaScript
-
----
-
-## License
-
-[MIT](LICENSE)
