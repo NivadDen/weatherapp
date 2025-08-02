@@ -94,3 +94,8 @@ weatherapp/
 - dotenv
 - node-fetch
 - HTML, CSS, JavaScript
+
+##Screenshots
+
+<img width="976" height="632" alt="Screenshot 2025-08-01 at 8 58 01 PM" src="https://github.com/user-attachments/assets/f6a66264-ecce-4ac4-9b04-436e8ce5c560" />
+
