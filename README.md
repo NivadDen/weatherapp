@@ -16,7 +16,7 @@ A simple web application that fetches current weather data by city using the Ope
 
 ## Project Structure
 
-```
+
 weatherapp/
 ├── server.js          # Backend server with API proxy
 ├── .env               # Environment variables (API key) - not committed
@@ -26,7 +26,7 @@ weatherapp/
 │   └── styles.css
 ├── package.json
 └── .gitignore
-```
+
 
 ---
 
@@ -41,34 +41,34 @@ weatherapp/
 
 1. Clone the repo
 
-   ```bash
+   bash
    git clone <your-repo-url>
    cd weatherapp
-   ```
+   
 
 2. Install dependencies
 
-   ```bash
+   bash
    npm install
-   ```
+   
 
 3. Create a `.env` file in the root folder and add your API key:
 
-   ```
+   
    API_KEY=your_openweathermap_api_key_here
-   ```
+   
 
 4. Run the server
 
-   ```bash
+   bash
    node server.js
-   ```
+   
 
 5. Open your browser and visit
 
-   ```
+   
    http://localhost:3000
-   ```
+   
 
 ---
 
@@ -82,8 +82,8 @@ weatherapp/
 
 ## Security Notes
 
-- The API key is stored securely on the backend in `.env`
-- `.env` is included in `.gitignore` to avoid accidental commits
+- The API key is stored securely on the backend in .env
+- .env is included in .gitignore to avoid accidental commits
 
 ---
 
